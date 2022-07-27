@@ -1,6 +1,9 @@
 # wmt_v3s_study
 My Allwinner V3S study
 
+* some v3s projects about live camera, V3S_OV2640_RTMP, etc      
+https://github.com/weimingtom/buildroot_licheepi_zero_hello  
+
 * cherrypi v3s first glance  
 我买的lctech cherrypi v3s开发板到手了，不需要tf卡即可启动——需要接三线串口，  
 排针要自己焊（附带双排针，普通间距），板载天线但可以用镊子掀起来拔掉。  
