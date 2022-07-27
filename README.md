@@ -25,3 +25,16 @@ nand flash（GD5F1GQ4UAYIG，128MB）。
 没有丝印，可能就是FEL（其他的开关是S4-S1对应START/SEL/-/+，  
 S5在另一个板边缘，对应reset）  
 
+* ref  
+https://github.com/puyams/v3s-linux-sdk  
+
+* cherrypi v3s sdk build  
+花了九牛二虎之力，三四个小时，终于把cherrypi v3s的固件编译出来了。  
+由于u-boot里面有个工具是32位，但u-boot的交叉工具链（也可能是内核的）  
+却是非32位，还有如果用xubuntu 20会导致bison编译失败  
+（可能bison的特定版本问题，导致fseterr.c编译失败）  
+以及后面一些qt的编译失败，所以唯一的选择是旧的ubuntu 14非32位，  
+另外还需要解决32位问题，所以需要  
+sudo apt install make gcc g++ python git gcc-multilib   
+g++multilib lib32z1 lib32ncurses5 u-boot-tools  
+
