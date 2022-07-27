@@ -2,7 +2,13 @@
 My Allwinner V3S study
 
 ## some v3s projects about live camera, V3S_OV2640_RTMP, etc      
-https://github.com/weimingtom/buildroot_licheepi_zero_hello  
+* https://github.com/weimingtom/buildroot_licheepi_zero_hello  
+* 在github上居然找到一个全志v3s摄像头直播的项目（走rtmp协议），感觉这个东西很值钱，如果真的能跑的话：  
+另外还找到一个v3ssdk-app的项目，里面有个演示gpio的用法，正好能弥补荔枝派zero文档不足的问题：（不要告诉我这是官方给的sdk）  
+当然我是希望能完善成类似wiringpi的控制GPIO的库，所以可以用来参考一下  
+* 可能是这几个，我不太记得了：yuliang8/V3S_OV2640_RTMP，ld3003/v3ssdk-app，第一个在gitee上有  
+* https://github.com/yuliang8/V3S_OV2640_RTMP  
+* https://github.com/ld3003/v3ssdk-app/blob/master/gpio/main.c  
 
 ## cherrypi v3s first glance  
 我买的lctech cherrypi v3s开发板到手了，不需要tf卡即可启动——需要接三线串口，  
