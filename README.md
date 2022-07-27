@@ -44,5 +44,9 @@ S5在另一个板边缘，对应reset）
 sudo apt install make gcc g++ python git gcc-multilib   
 g++multilib lib32z1 lib32ncurses5 u-boot-tools  
 
+## 《嵌入式Linux接口开发技术》, 荔枝派zero    
+* https://github.com/dengkuanchina/book-Embedded-System-Linux-C  
+* search badiupan, LicheePi-JIT-202103.img    
+
 ## ref  
 * https://github.com/puyams/v3s-linux-sdk  
