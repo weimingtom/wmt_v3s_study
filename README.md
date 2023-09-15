@@ -50,3 +50,6 @@ g++multilib lib32z1 lib32ncurses5 u-boot-tools
 
 ## ref  
 * https://github.com/puyams/v3s-linux-sdk  
+
+## 为了V3S不吃灰，移植NES游戏  
+* https://whycan.com/t_5139.html  
