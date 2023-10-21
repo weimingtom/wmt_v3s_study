@@ -53,3 +53,7 @@ g++multilib lib32z1 lib32ncurses5 u-boot-tools
 
 ## 为了V3S不吃灰，移植NES游戏  
 * https://whycan.com/t_5139.html  
+
+## v3s-board  
+* https://gitee.com/ycsfyp/v3s-board  
+* http://www.youpeng.info/2023/02/17/全志v3s板（开源）/  
