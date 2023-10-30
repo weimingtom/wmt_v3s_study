@@ -57,3 +57,6 @@ g++multilib lib32z1 lib32ncurses5 u-boot-tools
 ## v3s-board  
 * https://gitee.com/ycsfyp/v3s-board  
 * http://www.youpeng.info/2023/02/17/全志v3s板（开源）/  
+
+## Blueberry-PI  
+* https://github.com/petit-miner/Blueberry-PI  
