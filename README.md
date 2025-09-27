@@ -60,3 +60,11 @@ g++multilib lib32z1 lib32ncurses5 u-boot-tools
 
 ## Blueberry-PI  
 * https://github.com/petit-miner/Blueberry-PI  
+
+## buildroot_licheepi_zero_hello
+* https://github.com/weimingtom/buildroot_licheepi_zero_hello
+
+## Generic U-Boot, armv7, u-boot/LicheePi_Zero, u-boot-sunxi-with-spl.bin, see u-boot/README.txt
+* https://www.alpinelinux.org/downloads
+* https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/armv7/alpine-uboot-3.22.1-armv7.tar.gz
+
