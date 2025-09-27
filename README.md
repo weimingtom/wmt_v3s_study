@@ -68,3 +68,5 @@ g++multilib lib32z1 lib32ncurses5 u-boot-tools
 * https://www.alpinelinux.org/downloads
 * https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/armv7/alpine-uboot-3.22.1-armv7.tar.gz
 
+## wmt_liulianpi_study
+* https://github.com/weimingtom/wmt_liulianpi_study
